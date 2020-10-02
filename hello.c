@@ -1,2 +1,9 @@
-#include <stdio.h>
-int main() {printf("Hello SAi Raj2!");}
+/*-------ADDING HEADER FILE AT TOP---*/
+
+#include<stdio.h>
+/*------------Main function-------------*/
+int main ()
+{
+  /*---------Printf will print the statement--------------*/
+  printf("HELLO WORLD !");
+}
